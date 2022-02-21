@@ -1,0 +1,4 @@
+﻿  CS300_Vector_Sorting.cpp
+C:\Users\Craig\source\repos\CS300_Vector_Sorting\CS300_Vector_Sorting.cpp(104,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Craig\source\repos\CS300_Vector_Sorting\CS300_Vector_Sorting.cpp(342,31): warning C4018: '<': signed/unsigned mismatch
+  CS300_Vector_Sorting.vcxproj -> C:\Users\Craig\source\repos\CS300_Vector_Sorting\Debug\CS300_Vector_Sorting.exe
