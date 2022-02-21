@@ -41,7 +41,7 @@ Alos there i sover lap in other languages with these same type of datastructures
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?** 
 
-Always writing that is commented , reusable, modular, and easily maintained is at the forefront of any programmer design agenda.
+Always writing that is commented , reusable, modular, and easily maintained should be at the forefront of any programmer's design agenda.
 
 
 8-2 Discussion: Coding Challenges (Optional)
