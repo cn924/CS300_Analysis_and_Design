@@ -32,7 +32,7 @@ With each data structure there are advantages and disadvantages. Some work bette
 
 **How did you overcome any roadblocks you encountered while going through the activities or project?**   
 
-The best way roadblocks were overcome was by preparing first. Writing out the logic, with flowcharts. pseudocode, and researching the data structure to be used.
+The best way roadblocks were overcome was by preparing first. Writing out the logic, with flowcharts. pseudocode, and researching the data structure to be used for the particular job at hand.
 
 **How has your work on this project expanded your approach to designing software and developing programs?**   
 
