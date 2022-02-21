@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\Craig\source\repos\CS_300_Linked_List_Test\LinkedList.cpp(355,27): warning C4018: '<': signed/unsigned mismatch
+  CS_300_Linked_List_Test.vcxproj -> C:\Users\Craig\source\repos\CS_300_Linked_List_Test\Debug\CS_300_Linked_List_Test.exe
