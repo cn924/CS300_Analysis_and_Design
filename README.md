@@ -26,9 +26,17 @@ Module Topics and Assignments
 For 6-2 We were doing a runtime analysis on the different data structures we were introduced to in this class.  
 For  7-1  We read a csv file into a C++ program and populated a binary search tree and outputted a alphabetically sorted course list with attached prerequisites.
 
-**How did you approach the problem? Consider why data structures are important to understand.**
-How did you overcome any roadblocks you encountered while going through the activities or project?
-How has your work on this project expanded your approach to designing software and developing programs?
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+**How did you approach the problem? Consider why data structures are important to understand.**  
+With each data structure there are advantages and disadvantages. Some work better depending on the job to be done.
+
+**How did you overcome any roadblocks you encountered while going through the activities or project?**  
+The best way roadblocks were overcome was by preparing first. Writing out the logic, with flowcharts. pseudocode, and researching the data structure to be used.  
+**How has your work on this project expanded your approach to designing software and developing programs?**
+After being introduced and working with the different typesdata structures. It built confidence in working with these in the future.  
+Alos there i sover lap in other languages with these same type of datastructures.  
+
+**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+Always writing that is commented , reusable, modular, and easily maintained is at the forefront of any programmer design agenda.
+
 
 8-2 Discussion: Coding Challenges (Optional)
