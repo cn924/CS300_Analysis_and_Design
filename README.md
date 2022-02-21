@@ -23,7 +23,7 @@ Module Topics and Assignments
 
 **What was the problem you were solving in the projects for this course?**
 
-For 6-2 We were doing a runtime analysis on the different data structures we were introduced to in this class.
+For 6-2 We were doing a runtime analysis on the different data structures we were introduced to in this class.  
 For  7-1  We read a csv file into a C++ program and populated a binary search tree and outputted a alphabetically sorted course list with attached prerequisites.
 
 **How did you approach the problem? Consider why data structures are important to understand.**
