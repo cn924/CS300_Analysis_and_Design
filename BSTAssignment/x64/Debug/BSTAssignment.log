@@ -1,0 +1,7 @@
+﻿  BinarySearchTree.cpp
+  CSVparser.cpp
+C:\Users\Craig\source\repos\BSTAssignment\CSVparser.cpp(116,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Craig\source\repos\BSTAssignment\CSVparser.cpp(121,30): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Craig\source\repos\BSTAssignment\CSVparser.cpp(203,30): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  BSTAssignment.vcxproj -> C:\Users\Craig\source\repos\BSTAssignment\x64\Debug\BSTAssignment.exe
