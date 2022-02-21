@@ -36,12 +36,12 @@ The best way roadblocks were overcome was by preparing first. Writing out the lo
 
 **How has your work on this project expanded your approach to designing software and developing programs?**   
 
-After being introduced and working with the different typesdata structures. It built confidence in working with these in the future.  
-Alos there i sover lap in other languages with these same type of datastructures.  
+After being introduced and working with the different types of data structures. It built confidence in working with these in the future.  
+Also there is an over lap in other computer languages with these same type of datastructures.  
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?** 
 
-Always writing that is commented , reusable, modular, and easily maintained should be at the forefront of any programmer's design agenda.
+Always writing code that is commented , reusable, modular, and easily maintained should be at the forefront of any programmer's design agenda.
 
 
 8-2 Discussion: Coding Challenges (Optional)
